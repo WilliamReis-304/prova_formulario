@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(71, 71, 71);
+    color: white;
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
+
+label{
+    display: flex;
+    align-items: top;
+    
+}
+
+button{
+    background-color: rgb(252, 255, 54);
+    border-radius: 10px;
+    margin-top: 5ch;
+    height: 5ch;
+    width: 10ch;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+
+h1{
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#formulario{
+    border: 0.5ch solid white;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+input{
+    margin-left: 9ch;
+    width: 40ch;
+}
+
+textarea{
+    margin-left: 9ch;
+    width: 40ch;
+    height: 20ch;
+}
+
+label{
+    margin-right: 2ch;
+}
